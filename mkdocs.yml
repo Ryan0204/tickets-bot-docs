@@ -1,0 +1,23 @@
+site_name: Tickets Bot
+logo: logo.png
+theme:
+  name: material
+  palette:
+    - scheme: slate
+      toggle:
+        primary: indigo
+        icon: material/brightness-7
+        name: Switch to light mode
+    - scheme: default
+      toggle:
+        primary: indigo
+        icon: material/brightness-4
+        name: Switch to dark mode
+  features:
+    - navigation.instant
+extra_css:
+  - stylesheets/extra.css
+
+# Repository
+repo_name: Tickets-Bot
+repo_url: https://github.com/Ryan0204/Tickets-Bot
