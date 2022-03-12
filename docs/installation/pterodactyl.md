@@ -4,3 +4,4 @@
 2. Type `https://github.com/Ryan0204/Tickets-Bot` on GIT REPO ADDRESS
 3. Go to settings page, reinstall server
 4. Edit [`ticketconfig.json`](../../Configuration/ticket-config/) and [`config.json`](../../Configuration/bot-config)
+5. Start the bot
